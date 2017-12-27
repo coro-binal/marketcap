@@ -1,6 +1,7 @@
 # marketcap
 ===========================
 
-Market Capitalization Check
+## USD/IDR Price
 ---------------------------
 
+Get from bloomberg and Reuters.
