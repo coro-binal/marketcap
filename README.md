@@ -1,6 +1,4 @@
 # marketcap
-===========================
 
 Market Capitalization Check
----------------------------
 
